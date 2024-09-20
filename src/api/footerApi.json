@@ -1,0 +1,17 @@
+[
+  {
+    "icon": "MdPlace",
+    "title": "Find us",
+    "details": "Kookas , Jaipur"
+  },
+  {
+    "icon": "IoCallSharp",
+    "title": "Call us",
+    "details": "7050869828"
+  },
+  {
+    "icon": "TbMailPlus",
+    "title": "Mail us",
+    "details": "codingwithrupesh@gmail.com"
+  }
+]
